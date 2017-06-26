@@ -1,4 +1,4 @@
-# Warwick Interface for Music Servers (WIMPS)
+# Warwick Interface for Music Playing Servers (WIMPS)
 A standard for music servers to make jam-berets easier.
 
 ## Sections
