@@ -1,14 +1,12 @@
 # WIMPS: API
 
-## General
-* API endpoints should be located at music.lan/api
-* All API endpoints should take data via POST unless otherwise specified
-* All API endpoints should return 200 on receipt of a valid request, and 400 on other error, unless otherwise specified
+## Definitions
+Please see [Setup](https://github.com/mcnutty26/WIMPS/blob/master/general.md)
 
-## Entries
-* Whenever it is specified that an entry is returned, that entry takes the form of a JSON Object with the following fields:
-  * 'id': The unique identifier for the user who owns the entry
-  * 'name': The title of the entry
+## General
+* API endpoints must be located at music.lan/api
+* All API endpoints must take data via POST unless otherwise specified
+* All API endpoints must return 200 on receipt of a valid request, and 400 on other error, unless otherwise specified
 
 ## Endpoints
 ### /add
