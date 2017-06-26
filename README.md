@@ -2,5 +2,5 @@
 A standard for music servers to make jam-berets easier.
 
 ## Sections
-* [Setup](https://github.com/mcnutty26/WIMPS/blob/master/general.md)
+* [Setup](https://github.com/mcnutty26/WIMPS/blob/master/general.md) (includes definitions)
 * [API](https://github.com/mcnutty26/WIMPS/blob/master/api.md)
